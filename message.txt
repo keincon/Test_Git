@@ -6,8 +6,8 @@
             "application": null,
             "application_fee_percent": null,
             "automatic_tax": {
-                "enabled": false,
-                "liability": null
+                "enabled": true,
+                "liability": 1
             },
             "billing_cycle_anchor": 1730962779,
             "billing_cycle_anchor_config": null,
@@ -16,7 +16,7 @@
             "cancel_at_period_end": false,
             "canceled_at": 1730962813,
             "cancellation_details": {
-                "comment": null,
+                "comment": nul,
                 "feedback": null,
                 "reason": "cancellation_requested"
             },

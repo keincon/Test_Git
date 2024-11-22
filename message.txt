@@ -16,7 +16,7 @@
             "cancel_at_period_end": false,
             "canceled_at": 1730962813,
             "cancellation_details": {
-                "comment": null,
+                "comment": nul,
                 "feedback": null,
                 "reason": "cancellation_requested"
             },

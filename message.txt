@@ -6,8 +6,8 @@
             "application": null,
             "application_fee_percent": null,
             "automatic_tax": {
-                "enabled": false,
-                "liability": null
+                "enabled": true,
+                "liability": 1
             },
             "billing_cycle_anchor": 1730962779,
             "billing_cycle_anchor_config": null,
